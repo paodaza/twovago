@@ -113,7 +113,7 @@ strong { color: #2e3139; font-weight: 700; }
 hr { border-top: 1px solid #eee; margin-bottom: 40px; margin-top: 40px; }
 .list-none { list-style: none; padding: 0; }
 .search-icon { line-height: 2.6; float: right; margin: 0 20px 0 0; }
-.login-icon {line-height: 2.6;float: right;}
+.login-icon {line-height: 2.6;float: right; }
 
 
 /*-----------------------
