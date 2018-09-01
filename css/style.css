@@ -448,8 +448,8 @@ img { width: auto; max-width: 100%; height: auto; margin: 0; padding: 0; border:
 #navigation.align-center>ul>li { display: inline-block; float: none; }
 #navigation.align-center ul ul { text-align: left; }
 #navigation.align-right>ul>li { float: right; }
-#navigation>ul>li>a { padding: 18px 20px; font-size: 14px; color: #121113; letter-spacing: 0px; text-decoration: none; font-weight: 400; text-transform: capitalize; }
-#navigation>ul>li:hover>a { color: #3d0f82; background-color: transparent; border-radius: 0px; }
+#navigation>ul>li>a { padding: 18px 20px; font-size: 20px; color: #712fb4; letter-spacing: 0px; text-decoration: none; font-weight: 400; text-transform: capitalize; }
+#navigation>ul>li:hover>a { color: #f109b7; background-color: transparent; border-radius: 0px; }
 #navigation>ul>li.has-sub>a { padding-right: 36px; }
 
 /*#navigation>ul>li>a:after {
