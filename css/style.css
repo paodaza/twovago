@@ -86,6 +86,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: 'Merriweather Sans', sans-serif; letter-spacing: 0px; font-size: 14px; color: #36333c; font-weight: 400; line-height: 26px; }
 .wrapper { margin: 0px 41px 41px 41px; }
+
+.barraLogin{ width: 100%; text-align: left}
+
 h1, h2, h3, h4, h5, h6 { letter-spacing: 0px; font-weight: 300; color: #1c1e22; margin: 0px 0px 15px 0px; font-family: 'Merriweather Sans', sans-serif; }
 h1 { font-size: 40px; }
 h2 { font-size: 34px; }
@@ -109,7 +112,9 @@ blockquote { padding: 30px; margin: 0 0 30px; font-size: 18px; border: 2px solid
 strong { color: #2e3139; font-weight: 700; }
 hr { border-top: 1px solid #eee; margin-bottom: 40px; margin-top: 40px; }
 .list-none { list-style: none; padding: 0; }
-.search-icon { line-height: 2.6; }
+.search-icon { line-height: 2.6; float: right; margin: 0 20px 0 0; }
+.login-icon {line-height: 2.6;float: right;}
+
 
 /*-----------------------
    2 Form Elements:
